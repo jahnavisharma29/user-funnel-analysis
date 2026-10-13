@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Large dataset files
+data/2019-Oct.csv
+data/*.db
